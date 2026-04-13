@@ -5,7 +5,7 @@ I’m a Data Science graduate student at the University of Houston–Clear Lake 
 
 I’m currently seeking Data Science, Analytics, or Machine Learning internship opportunities.
 ## 🔧 Technical Skills
-Python, SQL, EDA, Statistics, SAP, CRM, ERP, MPLS, VPN, Routing, Switching
+Python, Machine Learning, NLP, SQL, EDA, Statistics, SAP, CRM, ERP, MPLS, VPN, Routing, Switching
 ## 📊 Featured Projects
 - Twitter Circadian Rhythm Analysis
 - Economic Indicators Analysis (2015–2023)
